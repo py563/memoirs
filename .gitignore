@@ -19,3 +19,10 @@
 
 # Go workspace file
 go.work
+
+# hugo related
+public
+resources/_gen
+.DS_Store
+.prettierignore
+.vscode
