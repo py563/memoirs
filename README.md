@@ -4,7 +4,7 @@ Personal Web Blog
 
 Defualt langauge on website is English.
 
-Depolyed on ![github pages](https://github.com/py563/memoirs/actions/workflows/main.yml/badge.svg)
+Depolyed on ![github pages](https://github.com/py563/memoirs/actions/workflows/hugo.yml/badge.svg)
 
 Current Theme [LoveIt](https://hugoloveit.com/)
 
