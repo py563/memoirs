@@ -2,7 +2,7 @@ baseurl = "https://memoirs.prajwalyashasvi.in"
 # [en, te, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # languageCode = "en"
-title = "Memoirs across the Welkin"
+title = "MEMOIRS ACROSS THE WELKIN"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "loveit"
@@ -117,7 +117,7 @@ enableGitInfo = true
   # english menu
   [languages.en]
     weight = 1
-    title = "Memoirs across the Welkin"
+    title = "MEMOIRS ACROSS THE WELKIN"
     languageCode = "en"
     languageName = "English"
     hasCJKLanguage = false
